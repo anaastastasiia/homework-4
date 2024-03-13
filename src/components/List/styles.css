@@ -1,0 +1,8 @@
+ul {
+  list-style-type: none; 
+}
+
+.title {
+  width: 300px;
+  margin: 5px 10px;
+}
